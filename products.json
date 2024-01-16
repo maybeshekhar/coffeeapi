@@ -1,0 +1,56 @@
+[
+    {
+        "brand": "Blue Tokai",
+        "name": "Midnight Madness",
+        "price": 350,
+        "rating": 4.0
+    },
+    {
+        "brand": "Blue Tokai",
+        "name": "Some Coffee",
+        "price": 500,
+        "rating": 3.5 
+    },
+    {
+        "brand": "Nescafe",
+        "name": "Classic",
+        "price": 200,
+        "rating": 5
+    },
+    {
+        "brand": "Bru",
+        "name": "Gold",
+        "price": 340,
+        "rating": 5
+    },
+    {
+        "brand": "Sleepy Owl",
+        "name": "random coffee",
+        "price": 500,
+        "rating": 2
+    },
+    {
+        "brand": "Nescafe",
+        "name": "Original",
+        "price": 450,
+        "rating": 4
+    },
+    {
+        "brand": "Bru",
+        "name": "Pre-mix",
+        "price": 300,
+        "rating": 4
+    },
+    {
+        "brand": "Sleepy Owl",
+        "name": "Espresso",
+        "price": 300,
+        "rating": 4
+    },
+    {
+        "brand": "Nescafe",
+        "name": "Black Roasted",
+        "price": 350,
+        "rating": 3
+    }
+]
